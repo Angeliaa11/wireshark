@@ -27,7 +27,7 @@
 
    <img width="317" alt="Image" src="https://github.com/user-attachments/assets/b9b3329e-33ed-4adc-a50c-0baabc900c8a" />
 
-7. Selajutnya lihat properties dari packet capture yang dilakukan. Dengan menekan Statistics > Caputre File Properties.
+7. Selanjutnya lihat properties dari packet capture yang dilakukan. Dengan menekan Statistics > Caputre File Properties.
 
    ![Image](https://github.com/user-attachments/assets/55898ffc-1f88-47c4-b1e7-2d79976e7736)
 
