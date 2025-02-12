@@ -29,7 +29,14 @@
 
 7. Selajutnya lihat properties dari packet capture yang dilakukan. Dengan menekan Statistics > Caputre File Properties.
 
-   
+   ![Image](https://github.com/user-attachments/assets/55898ffc-1f88-47c4-b1e7-2d79976e7736)
+
+8. selanjutnya akan muncul seperti pada gambar, Perhatikan bagian Statistics pada halaman Capture File Properties. Pada halaman ini 
+   kita dapat melakukan perhitungan Throughput, Packet Loss, Delay, dan Jitter.
+
+   ![Image](https://github.com/user-attachments/assets/2e823cdf-2e02-4c2a-9009-23ca28dfdef3)
+
+9. Hitunglah berapa Throughput, Packet Loss, Delay, dan Jitter yang didapatkan dari Statistics Wireshark yang kalian jalankan di Komputer/Laptop masing-masing.
 
 
    
