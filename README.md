@@ -41,9 +41,9 @@
     
  | PENGUKURAN  | NILAI        | KATEGORI |
 |-------------|-------------|----------|
-| Throughput  | (Byte)      |          |
-|             | (Bit)       |          |
-| Packet Loss |             |          |
+| Throughput  | 2.296       |          |
+|             | 18 k        |          |
+| Packet Loss |     0       |          |
 | Delay       |             |          |
 | Jitter      |             |          |
 
