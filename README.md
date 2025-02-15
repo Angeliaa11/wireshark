@@ -39,12 +39,14 @@
 9. Hitunglah berapa Throughput, Packet Loss, Delay, dan Jitter yang didapatkan dari Statistics Wireshark yang kalian jalankan di Komputer/Laptop masing-masing.
 
     
- | PENGUKURAN        | NILAI | KATEGORI |
- |-------------------|-------|----------|
- | Throughput (Byte) | ...   | ...      |
- | Packet Loss       | ...   | ...      |
- | Delay             | ...   | ...      |
- | Jitter            | ...   | ...      |
+ | PENGUKURAN  | NILAI        | KATEGORI |
+|-------------|-------------|----------|
+| Throughput  | (Byte)      |          |
+|             | (Bit)       |          |
+| Packet Loss |             |          |
+| Delay       |             |          |
+| Jitter      |             |          |
+
 
 
 
