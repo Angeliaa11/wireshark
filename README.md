@@ -19,7 +19,7 @@
 
 4. Jalankan wireshark untuk melakukan capture packet.
 
-   ![Image](https://github.com/user-attachments/assets/0c8f06a6-6c2b-447e-92e8-155ae31b7c4a)
+  ![Image](https://github.com/user-attachments/assets/041eb426-e086-46ff-b256-3cff96d5c44f)
 
 5. Selanjutnya, lakukan beberapa kegiatan di Komputer/Laptop kalian seperti main game, live tiktok/instagram, scroll sosmed dan kegiatan yang berhubungan dengan internet        lainnya selama ±5 menit.
    
@@ -66,6 +66,9 @@
    
    <img width="192" alt="Image" src="https://github.com/user-attachments/assets/52f4c2dd-6a4e-4a88-928c-d78138d6f4dc" />
 
+   **Analisis yang di dapat :**
+   
+
    <img width="347" alt="Image" src="https://github.com/user-attachments/assets/60f0bc29-306c-4cd4-bdf3-9963d1208132" />
 
    Delay = Time 2 – Time 1
@@ -75,6 +78,8 @@
    <img width="284" alt="Image" src="https://github.com/user-attachments/assets/26aa1693-9428-43af-be23-6f78a46d2715" />
 
    Total Delay = Menambahkan seluruh jumlah data 95 yaitu 11,742046
+
+   
    
    Rata – rata Delay = Total Delay : Jumlah Paket
 
