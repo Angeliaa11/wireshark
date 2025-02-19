@@ -66,6 +66,14 @@
    
    <img width="192" alt="Image" src="https://github.com/user-attachments/assets/52f4c2dd-6a4e-4a88-928c-d78138d6f4dc" />
 
+   <img width="347" alt="Image" src="https://github.com/user-attachments/assets/60f0bc29-306c-4cd4-bdf3-9963d1208132" />
+
+   Delay = Time 2 – Time 1
+   
+   Jadi didapatkan nilai dari data delay dan rata – rata delay sebagai berikut :
+
+   
+
    
 
    
