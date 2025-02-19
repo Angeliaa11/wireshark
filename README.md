@@ -34,9 +34,15 @@
 8. selanjutnya akan muncul seperti pada gambar, Perhatikan bagian Statistics pada halaman Capture File Properties. Pada halaman ini 
    kita dapat melakukan perhitungan Throughput, Packet Loss, Delay, dan Jitter.
 
-   ![Image](https://github.com/user-attachments/assets/2e823cdf-2e02-4c2a-9009-23ca28dfdef3)
+   ![Image](https://github.com/user-attachments/assets/87e7bcd8-bb84-4f8f-96e5-3553341cd61e)
 
 9. Hitunglah berapa Throughput, Packet Loss, Delay, dan Jitter yang didapatkan dari Statistics Wireshark yang kalian jalankan di Komputer/Laptop masing-masing.
+
+**DELAY**
+Convert semua packet tersebut menjadi format CSV dan lakukan analisis data melalui excel.
+Karna yang diperlukan hanya informasi waktu, maka hilangkan kolum informasi lain pada file
+csv yang sudah di export
+
 
     
  | PENGUKURAN  | NILAI        | KATEGORI |
