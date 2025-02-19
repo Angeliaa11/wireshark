@@ -38,20 +38,43 @@
 
 9. Hitunglah berapa Throughput, Packet Loss, Delay, dan Jitter yang didapatkan dari Statistics Wireshark yang kalian jalankan di Komputer/Laptop masing-masing.
 
-**DELAY**
-Convert semua packet tersebut menjadi format CSV dan lakukan analisis data melalui excel.
-Karna yang diperlukan hanya informasi waktu, maka hilangkan kolum informasi lain pada file
-csv yang sudah di export
+    **Throughtput byte**
+   
+    jumlah bytes / Time span = hasil bytes
+   
+    9307489 / 270.135 = 34.454
+
+    **Throughtput bit**
+
+    throughtput (byte) x 8
+   
+    =34.454 x 8
+   
+    =275.639 bit/s
+
+   **packet loss**
+   
+   [((paket dikirim - paket diterima) : paket diterima) x 100
+   
+   = (10536 - 10536) : 10536) x 100
+   
+   = 0 x 100
+   
+   = 0
+
+   **Delay**
+
+   
+
 
 
     
- | PENGUKURAN  | NILAI        | KATEGORI |
-|-------------|-------------|----------|
-| Throughput  | 2.296       |          |
-|             | 18 k        |          |
-| Packet Loss |     0       |          |
-| Delay       |             |          |
-| Jitter      |             |          |
+   
+
+
+
+    
+
 
 
 
