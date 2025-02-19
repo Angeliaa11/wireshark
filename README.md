@@ -78,8 +78,6 @@
    <img width="284" alt="Image" src="https://github.com/user-attachments/assets/26aa1693-9428-43af-be23-6f78a46d2715" />
 
    Total Delay = Menambahkan seluruh jumlah data 95 yaitu 11,742046
-
-   
    
    Rata – rata Delay = Total Delay : Jumlah Paket
 
@@ -90,6 +88,8 @@
    **jitter**
 
    Berikut adalah data yang didapatkan dari nilai delay sehingga mendapatkan Jitter
+
+   ![Image](https://github.com/user-attachments/assets/353e6e7a-bfa9-457b-b1c3-2889d16fde68)
 
    
 
