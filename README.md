@@ -89,7 +89,29 @@
 
    Berikut adalah data yang didapatkan dari nilai delay sehingga mendapatkan Jitter
 
+   ![Image](https://github.com/user-attachments/assets/5f1f3f6e-39e2-45e5-ba14-d56a55a6bd01)
+
+   Analisis yang didapatkan adalah :
+   
+   Delay 1 = Nilai Delay – Nilai Delay Setelahnya
+   
+   Delay 2 = Semua Nilai Delay, Kecuali Delay Pertama
+   
+   Jitter = Delay – Delay 1
+
+   hasil dari nilai jitter dan rata – rata jitter juga didapatkan sebagai berikut :
+   
+   Total Jitter = 0,031684
+   
+   Rata – rata jitter = Total Jitter / Jumlah Paket
+   
+   = 0,031684 / 95
+
+   = 0,000333516
+
    ![Image](https://github.com/user-attachments/assets/353e6e7a-bfa9-457b-b1c3-2889d16fde68)
+
+   
 
    
 
