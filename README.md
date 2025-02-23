@@ -64,19 +64,6 @@
 
    **Delay**
    
-   <img width="192" alt="Image" src="https://github.com/user-attachments/assets/52f4c2dd-6a4e-4a88-928c-d78138d6f4dc" />
-
-   **Analisis yang di dapat :**
-   
-
-   <img width="347" alt="Image" src="https://github.com/user-attachments/assets/60f0bc29-306c-4cd4-bdf3-9963d1208132" />
-
-   Delay = Time 2 – Time 1
-   
-   Jadi didapatkan nilai dari data delay dan rata – rata delay sebagai berikut :
-
-   <img width="284" alt="Image" src="https://github.com/user-attachments/assets/26aa1693-9428-43af-be23-6f78a46d2715" />
-
    Total Delay = Menambahkan seluruh jumlah data 95 yaitu 11,742046
    
    Rata – rata Delay = Total Delay : Jumlah Paket
@@ -85,21 +72,11 @@
 
    =0,123600484
 
+   <img width="284" alt="Image" src="https://github.com/user-attachments/assets/26aa1693-9428-43af-be23-6f78a46d2715" />
+
    **jitter**
 
-   Berikut adalah data yang didapatkan dari nilai delay sehingga mendapatkan Jitter
-
-   ![Image](https://github.com/user-attachments/assets/5f1f3f6e-39e2-45e5-ba14-d56a55a6bd01)
-
-   Analisis yang didapatkan adalah :
-   
-   Delay 1 = Nilai Delay – Nilai Delay Setelahnya
-   
-   Delay 2 = Semua Nilai Delay, Kecuali Delay Pertama
-   
-   Jitter = Delay – Delay 1
-
-   hasil dari nilai jitter dan rata – rata jitter juga didapatkan sebagai berikut :
+   Delay 1 = Nilai Delay – Nilai De
    
    Total Jitter = 0,031684
    
